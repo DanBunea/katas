@@ -1,10 +1,6 @@
-# cljs-kata
+# outside-in tdd bank kata in ClojureScript
 
-See the description at: [http://danbunea.blogspot.com/2018/08/outside-in-tdd-bank-kata-in.html](http://danbunea.blogspot.com/2018/08/outside-in-tdd-bank-kata-in.html)
-
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
+This code is for the article on: [http://danbunea.blogspot.com/2018/08/outside-in-tdd-bank-kata-in.html](http://danbunea.blogspot.com/2018/08/outside-in-tdd-bank-kata-in.html)
 
 ## Setup
 
